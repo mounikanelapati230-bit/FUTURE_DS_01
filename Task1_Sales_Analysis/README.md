@@ -1,22 +1,25 @@
 # 📊 Task 1: Sales Analysis
 ## 🎯 Objective
-Analyze sales data to identify trends, top-performing categories, and regional performance.
+Analyze sales performance using Excel and identify trends across categories, sub-categories, and regions.
 ## 🛠 Tools Used
-- Excel (Pivot Tables, Charts)
-## 📂 Dataset
-Superstore Sales Dataset
+- Excel
+- Pivot Tables
+- Pivot Charts
+## 📂 Files Included
+- Sales_Analysis.xlsx
+- category_subcategory_sales_chart.png
+- region_sales&profit_chart.png
 ## 📈 Analysis Performed
-- Sales by Category
-- Sales by Sub-Category
-- Sales by Region
+- Category & Sub-Category Sales Analysis
+- Regional Sales & Profit Analysis
 ## 📊 Charts
 ### 1️⃣ Category & Sub-Category Sales
-![Category Chart](Category_Subcategory_Chart.png)
-### 2️⃣ Region Sales vs Profit
-![Region Chart](region_sales_chart.png)
+![Category Sales](category_subcategory_sales_chart.png)
+### 2️⃣ Regional Sales & Profit Analysis
+![Regional Analysis](region_sales&profit_chart.png)
 ## 💡 Key Insights
-- West region has highest sales
-- Technology category performs best
-- Some sub-categories contribute major revenue
+- Technology category generated higher sales.
+- Some sub-categories contributed more profit.
+- Regional sales performance differed significantly.
 ## 📌 Conclusion
-This analysis helps understand business performance and identify key areas for growth.
+This analysis helped identify important business trends and sales performance patterns using Excel dashboards and charts.
